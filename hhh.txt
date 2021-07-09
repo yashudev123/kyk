@@ -1,0 +1,29 @@
+
+Bearmetal
+Hyperlink
+vegrent---general use for ///
+
+
+container ------------Does not have os ----------
+----VM--- visual machine ----------u can /architeture/emulation///
+
+mk---------new directory in one os system
+yk---------new directory in one os system
+
+//VM box ----diff. os in single slot//
+
+/////////////////////////////////////////////////////////
+--------------------------------------------------------
+
+
+
+
+
+
+
+
+
+----docker--------
+containner-1 
+containner-2
+containner-3
